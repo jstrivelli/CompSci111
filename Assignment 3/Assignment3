@@ -1,0 +1,29 @@
+Assignment3
+Problem #1 Test Cases -
+			1.) Inputs - 90, 45, 1, 3, 0, 90
+			    Outputs - Result: 45.0
+			    		  Result: 1.0	
+
+			2.) Inputs -  -123, 55, -23, -1, -123
+				Outputs - Result: 55.0
+						  Result: -1.0
+			3.) Inputs - 1,1
+				Outputs - Result: 0.0
+				          Result: 0.0
+
+Problem #2 Test Cases -
+			1.) Inputs - 100, 150
+			    Outputs - 5
+			2.) Inputs - 300, 200
+			   Outputs - User entered bad input
+		       3.) Inputs - -35 , 567
+			   Outputs - 107
+		       4.) Inputs- -1,1
+			   Outputs - 0
+
+Problem #3 Test Cases -
+		      1.) Inputs - terminate = -1 nPrime: 10, 11, 129 -1
+			  Outputs - 29, 31, 727
+		      2.) Inputs -2, -1, 2, 6, 8, -2
+			  Outputs - User entered bad Input, 3, 13, 6 
+			   	

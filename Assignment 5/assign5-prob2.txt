@@ -1,0 +1,5 @@
+1.) Input Size - n = size of matrix 1
+				 m = size of matrix 2
+2.) #cmp - number of multiplications in each spot of the matrix
+3.) Best Case - BigOh(nm)
+	Worst Case - BigOh(nm)

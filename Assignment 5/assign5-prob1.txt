@@ -1,0 +1,25 @@
+method1 - findStudent
+1.) Input Size - n (allStudentNames.length)
+2.)   #cmp - the number of students in the class comparing to input
+3.)   Best Case - BigOh(n)
+    Worst Case - BigOh(n)
+
+method2 - computeGrade
+1.) Input Size - n = number of items in itemPointValue = scoreTable.length
+2.) #cmp - the number of additions to gradeTotal
+	#cmp - the number of additions to total
+3.) Best Case - BigOh(n)
+	Worst Case - BigOh(n)
+
+method3 - computeAllGrade
+1.) Input Size - n = the number of stuents in allStudeNames[] = scoreTable.length
+				 m = number of students in itemPointValue = scoreTable[i].length
+2.) #cmp - number of additions to calculatethe sum of each students grades
+3.) Best Case - BigOh(nm)
+	Worst Case - BigOh(nm)
+
+method4 - computeClassAverage
+1.) Input Size - n = number of students in allStudentName[]=scoreTable.length
+2.) #cmp - the number of comparisons of a specific graded input
+3.) Best Case - BigOh(n)
+	Worst Case - BigOh(n)

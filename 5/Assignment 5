@@ -1,0 +1,23 @@
+Assignment 4
+Test Cases
+Problem #1 - PigLatin.java
+			1.) Input - hello, Jesse, jesse, away, hello
+				Output - Result: "essejay"
+						Result: "essejay"
+						Result: "awayway"
+Problem #2 - WordCount.java
+			1.) Input - 4, Jesse is such a cool person, 3 i.know, -1
+				Output - Result: 4
+						 Result: 1
+			2.) Input - -2
+				Output - Bad Input
+Problem #3 - Compress.java
+			1.) Input - abcdef
+				Output - abcdef
+			2.) Input - AaBbCcDd
+				Output - AaBbCcDd
+			3.) Input - gggggghhhhhhhaaj
+				Output - 6g7h2aj
+			4.) Input - AAAAaaaa
+				Output - 4A4a			 
+

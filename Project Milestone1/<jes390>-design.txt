@@ -1,0 +1,9 @@
+Inputs for UNO game - Jesse Strivelli (jes390)
+What card do you want to know about?
+How many players are playing?
+Whose turn is it?
+How many cards do you want delt?
+
+Stategies(Task4)
+inputs in order - nothing, 4, 3, 7
+Strategy - the strategy of the game does not change. The main objective is 	to have the user get rid of their cards before other players. All the information given is just predetermined to play the game the user wants.
